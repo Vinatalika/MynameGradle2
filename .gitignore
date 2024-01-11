@@ -33,9 +33,3 @@ bin/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
-.DS_Store
-# Project exclude paths
-/.gradle/
-/build/
-/build/classes/java/main/
